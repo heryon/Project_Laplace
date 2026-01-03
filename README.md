@@ -1,5 +1,9 @@
 # Projeto Laplace: Curva Finita Central 
 
+<p align="center">
+  <img src="https://github.com/heryon/Project_Laplace/blob/5a8abe5a44fe8b6636a31415d6cacfec412ca474/Central_Finite_Curve.png" width=400 height=500 alt="Central Finite Curve"/>
+</p>
+
 ## Resumo
 
 Este trabalho apresenta o conceito de Curva Finita Central (CFC) como uma estrutura geométrica e estatística que surge quando sistemas físicos são descritos em termos probabilísticos. Em vez de introduzir um novo objeto físico ou uma nova força, a CFC organiza o espaço de possibilidades do sistema, levando em conta sua dinâmica, suas restrições físicas e a medida probabilística invariante associada ao regime considerado.
@@ -15,6 +19,11 @@ Por fim, o artigo explora possíveis implicações desse formalismo em cosmologi
 ---
 
 ## 1. Introdução
+<p align="center">
+  <img src="https://github.com/heryon/Project_Laplace/blob/86964ddf4de8e6e8f429d5a79f0b110be6e92200/Geodesic.jpg" width=50% alt="Geodesic"/>
+</p>
+
+---
 
 A introdução da Curva Finita Central exige uma mudança de perspectiva. Ela não corresponde a um novo objeto físico, nem a uma força adicional atuando sobre o sistema. Trata-se de uma estrutura geométrica que surge quando um sistema físico é descrito no nível probabilístico, isto é, quando lidamos com distribuições de probabilidade em vez de trajetórias individuais.
 
@@ -123,9 +132,7 @@ onde \(Z\) é a função de partição.
 ## 3. Definição Formal da Curva Finita Central
 
 
-<p align="center">
-  <img src="https://github.com/heryon/Project_Laplace/blob/5a8abe5a44fe8b6636a31415d6cacfec412ca474/Central_Finite_Curve.png" width=400 height=500 alt="Central Finite Curve"/>
-</p>
+
 
 A Curva Finita Central pode ser definida formalmente como um objeto geométrico emergente inscrito em uma variedade estatística riemanniana, construída a partir do conjunto de distribuições de probabilidade que maximizam a entropia sob um conjunto finito de restrições conservativas e uma medida invariante associada ao sistema físico considerado.
 
